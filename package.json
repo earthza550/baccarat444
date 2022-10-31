@@ -1,0 +1,17 @@
+{
+  "name": "baccarat444",
+  "theme": "syntax",
+  "version": "1.0.4",
+  "description": "บาคาร่า ออนไลน์ สมัครเล่นบาคาร่า & สล็อต ออนไลน์ จ่ายสูงสุด 1 : 1",
+  "keywords": [
+    "บาคาร่า",
+    "บาคาร่าออนไลน์",
+    "สมัครเล่นบาคาร่า",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/earthza550/baccarat444",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
